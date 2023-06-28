@@ -17,7 +17,6 @@
 #include <atomic>
 
 #include "json.hpp"
-
 #include "group_.hpp"
 #include "user_.hpp"
 #include "share.hpp"
@@ -104,7 +103,7 @@ int main(int argc, char **argv)
     // 先执行的会先执行动作，然后执行V(+1) 
     // --> 如果有后执行者先把信号量卡为-1了，那么此时信号量恢复为0   唤醒后执行的拿到先执行的内容再执行下去
 
-    // 典型案例：连接池  生产者-消费者模型  (本项目中用条件变量的通信来实现的生产者消费者模型的mysql连接池)  
+    // 典型案例：连接池  生产者-消费者模型 
     sem_init(&rwsem, 0, 0);  // 信号量初始化为0
 
 
