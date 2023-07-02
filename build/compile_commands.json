@@ -1,52 +1,52 @@
 [
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/chatserver.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/chatserver.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/chatserver.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/chatservice.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/chatservice.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/chatservice.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/main.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/main.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/main.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/db/db.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/db/db.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/db/db.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/friendmodel.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/friendmodel.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/model/friendmodel.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/groupmodel.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/groupmodel.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/model/groupmodel.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/offlinemessagemodel.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/offlinemessagemodel.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/model/offlinemessagemodel.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/usermodel.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/model/usermodel.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/model/usermodel.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/server",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/redis/redis.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/server/redis/redis.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/server/redis/redis.cpp"
 },
 {
   "directory": "/root/SCCS/Scalable-Cluster-ChatServer/build/src/client",
-  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/client/main.cpp",
+  "command": "/usr/bin/g++   -I/root/SCCS/Scalable-Cluster-ChatServer/include -I/root/SCCS/Scalable-Cluster-ChatServer/include/server -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/db -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/model -I/root/SCCS/Scalable-Cluster-ChatServer/include/server/redis -I/root/SCCS/Scalable-Cluster-ChatServer/thirdparty   -g -std=c++11 -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /root/SCCS/Scalable-Cluster-ChatServer/src/client/main.cpp",
   "file": "/root/SCCS/Scalable-Cluster-ChatServer/src/client/main.cpp"
 }
 ]
